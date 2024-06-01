@@ -7,3 +7,4 @@ json it is common format to communicate multiple application easiest  manner
 
 json method read the json data after reading  it was convert in JavaScript Object
  if your not add await it is in pending
+preview: female-snail.surge.sh
